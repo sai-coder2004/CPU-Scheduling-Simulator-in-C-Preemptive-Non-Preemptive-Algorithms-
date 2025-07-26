@@ -1,4 +1,3 @@
-# CPU-Scheduling-Simulator-in-C-Preemptive-Non-Preemptive-Algorithms-
 # CPU Scheduling Simulator in C++ (Preemptive and Non-Preemptive Algorithms)
 
 This project is a command-line based CPU Scheduling Simulator implemented in C++. It supports both **preemptive** and **non-preemptive** CPU scheduling algorithms, allowing users to simulate various scheduling strategies and view detailed performance metrics.
